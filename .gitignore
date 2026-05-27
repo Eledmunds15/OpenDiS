@@ -6,3 +6,5 @@ cmake/sys.cmake.ext
 *.dat
 *.txt
 *.data
+
+PRIVATE/
