@@ -1,0 +1,1 @@
+This module aims to implement the work of Gu. et al (DOI:10.1016/j.jmps.2015.04.002) 
